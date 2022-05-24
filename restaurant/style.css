@@ -1,0 +1,21 @@
+.menu{
+    margin: 150px;
+    border: 2px solid black;
+    background-color: rgb(183, 205, 130);
+}
+.appetizer{
+    display: flex;
+    
+    justify-content: center;
+    padding: 50px;
+}
+.entrees{
+    display: flex;
+    
+    justify-content: center;
+    padding: 50px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
